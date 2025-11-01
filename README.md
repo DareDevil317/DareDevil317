@@ -26,7 +26,7 @@ I specialize in **Python · SQL · HTML · Machine Learning**.
 ---
 
 ### 🎧 Spotify Recently Played
-[![Spotify Recently Played]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313opvn7cdgrujppvlpsyafz3zvi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile))
+[![Spotify Recently Played]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313opvn7cdgrujppvlpsyafz3zvi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile))
 
 ---
 
