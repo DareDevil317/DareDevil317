@@ -49,7 +49,7 @@ I specialize in **Python · SQL · HTML · Machine Learning**.
 
 ### 🔗 Connect With Me
 - LinkedIn: [Your LinkedIn](linkedin.com/in/abhinav-singh-367927353/)  
-- Twitter/X: [@YourHandle]((https://x.com/Abhi14122_Sin78))  
+- Twitter/X: [@Abhi14122_Sin78]((https://x.com/Abhi14122_Sin78))  
 - Email: abhinavsingh1052004@gmail.com
 
 ---
