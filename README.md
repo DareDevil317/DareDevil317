@@ -88,8 +88,8 @@
 <h2 align="center" style="color:#e50914;">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://github.com/DareDevil317"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:abhinavsingh1052004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/abhinav-singh-367927353"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
 ---
