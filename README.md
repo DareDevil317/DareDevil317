@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/banner.gif" width="100%" alt="Daredevil Banner">
+  <img src="https://github.com/DareDevil317/DareDevil317/blob/main/banner.gif?raw=true" width="100%" alt="Daredevil Banner">
 </p>
 
 <!-- Intro -->
@@ -73,22 +73,10 @@
 
 ---
 
-<!-- Quote of the Day -->
-<h2 align="center" style="color:#e50914;">💬 Quote of the Day</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
-</p>
-
----
-
-<!-- Snake Animation -->
+<!-- 🐍 Contribution Snake -->
 <h2 align="center" style="color:#e50914;">🐍 Contribution Snake</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DareDevil317/DareDevil317/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/output/snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/output/snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
