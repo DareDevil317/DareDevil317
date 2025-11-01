@@ -1,5 +1,5 @@
 <!-- Welcome Banner -->
-![Welcome Banner](https://raw.githubusercontent.com/DareDevil317/DareDevil317/main/assets/banner.gif)
+![Welcome Banner](https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/banner.gif)
 
 # Hi, I’m Abhinav Singh 👋
 
