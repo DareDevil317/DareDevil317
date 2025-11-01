@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Welcome Banner -->
+![Welcome Banner](https://raw.githubusercontent.com/DareDevil317/DareDevil317/main/assets/banner.gif)
 
-<!--
-**DareDevil317/DareDevil317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Abhinav Singh 👋
 
-Here are some ideas to get you started:
+Aspiring **Data Scientist** passionate about turning data into insights, automating workflows, and building intelligent systems.  
+I specialize in **Python · SQL · HTML · Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Profile Stats
+<img align="left" src="https://komarev.com/ghpvc/?username=DareDevil317&color=red&style=for-the-badge" alt="Profile views"/>
+<br clear="left"/>
+
+---
+
+### ⚙️ GitHub Stats
+[![Abhinav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DareDevil317&show_icons=true&theme=radical)](https://github.com/DareDevil317)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DareDevil317&layout=compact&theme=radical)](https://github.com/DareDevil317)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DareDevil317&theme=onedark&margin-w=10)](https://github.com/DareDevil317)
+
+---
+
+### 🎧 Spotify Recently Played
+[![Spotify Recently Played](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&bar_color=1DB954)](https://open.spotify.com/user/DG7irg9SWXb)
+
+---
+
+### 🌆 3D Commit Skyline
+![Commit Skyline](https://github-readme-activity-graph.vercel.app/graph?username=DareDevil317&theme=github-dark)
+
+---
+
+### 💡 Skills & Technologies
+**Languages & Tools:** Python · SQL · HTML · CSS · Git · Machine Learning  
+**Frameworks / Libraries:** Pandas · NumPy · Scikit-learn · Matplotlib  
+**Interests:** Data Analysis · Automation · AI · Predictive Modeling
+
+---
+
+### 🚀 Highlighted Projects
+- [Smart Language Learning App](https://github.com/DareDevil317/smart-language-learning-app) — Personalized language-learning with ML  
+
+---
+
+### 🔗 Connect With Me
+- LinkedIn: [Your LinkedIn](linkedin.com/in/abhinav-singh-367927353/)  
+- Twitter/X: [@YourHandle]((https://x.com/Abhi14122_Sin78))  
+- Email: abhinavsingh1052004@gmail.com
+
+---
+
+> *“Keep learning, keep building.”* 🦸‍♂️
