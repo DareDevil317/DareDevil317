@@ -130,10 +130,6 @@
     <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" style="border-radius:12px; margin:15px;"/>
   </a>
   <br>
-  <!-- HackerRank Profile -->
-  <a href="https://www.hackerrank.com/2k24_csds1a_2425" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-e50914?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" style="margin:10px;"/>
-  </a>
 </p>
 
 ---
