@@ -121,6 +121,22 @@
   </a>
 </p>
 
+<!-- Dynamic Coding Stats -->
+<p align="center">
+  <br>
+  <!-- LeetCode -->
+  <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="400"/><br><br>
+
+  <!-- Kaggle -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/abhi14122sin78" alt="Kaggle Profile Stats"/><br><br>
+
+  <!-- GeeksforGeeks -->
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=abhinavsingh1052004" alt="GeeksforGeeks Stats Card" width="400"/><br><br>
+
+  <!-- Stack Overflow -->
+  <img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/17989478" alt="Stack Overflow Badge" width="400"/>
+</p>
+
 ---
 
 <!-- Footer -->
