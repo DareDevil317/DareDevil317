@@ -10,7 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=I'm+Abhinav+Singh;Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- About Me -->
 <h2 align="center" style="color:#e50914;">💡 About Me</h2>
@@ -23,7 +29,14 @@
   ⚡ Fun fact: My username’s inspired by <b>Marvel’s Daredevil</b> — resilience, precision, and focus.
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- GitHub Stats -->
 <h2 align="center" style="color:#e50914;">📊 GitHub Stats</h2>
@@ -32,7 +45,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DareDevil317&theme=tokyonight&ring=e50914&fire=e50914&currStreakLabel=e50914" height="165">
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- Trophies -->
 <h2 align="center" style="color:#e50914;">🏆 Achievements & Trophies</h2>
@@ -40,7 +60,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DareDevil317&theme=onedark&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies">
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- Skills -->
 <h2 align="center" style="color:#e50914;">⚙️ Tech Stack</h2>
@@ -49,7 +76,14 @@
   <sub>Constantly learning and adding new tools to my arsenal.</sub>
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- Spotify -->
 <h2 align="center" style="color:#e50914;">🎧 Recently Played</h2>
@@ -60,7 +94,14 @@
   <sub style="color:gray;">Auto-updates with your latest tracks</sub>
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- GitHub Activity Graph -->
 <h2 align="center" style="color:#e50914;">📈 GitHub Activity Graph</h2>
@@ -69,7 +110,14 @@
        alt="Abhinav's GitHub Activity Graph" width="95%">
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- 🐍 Contribution Snake -->
 <h2 align="center" style="color:#e50914;">🐍 Contribution Snake</h2>
@@ -77,7 +125,14 @@
   <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/output/snake-dark-red.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- Contact -->
 <h2 align="center">📬 Connect With Me</h2>
@@ -96,7 +151,14 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img
+src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- Coding Profiles -->
 <h2 align="center" style="color:#e50914;">💻 Coding Profiles</h2>
@@ -129,7 +191,13 @@
   <br>
 </p>
 
----
+<p align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 
 <!-- Footer -->
 <p align="center">
