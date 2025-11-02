@@ -13,16 +13,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: abhinavsingh  # replace with your actual GitHub username
+          github_user_name: DareDevil317  # use your GitHub username here
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark-red.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Custom colors passed via args
+        # snake = red | dots = black + red (daredevil theme)
+        with:
           args: |
             --color_snake=#FF0000
             --color_dots=#000000,#FF0000
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
+      - name: Move generated files
+        run: |
+          cp ./snake-dark-red.svg ./dist/snake-dark-red.svg || true
+
       - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
