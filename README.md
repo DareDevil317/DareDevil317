@@ -5,26 +5,33 @@
 
 <!-- Welcome Section -->
 <h1 align="center" style="color:#e50914;">👋 Welcome to My Portfolio</h1>
-<h2 align="center" style="color:white;">I'm <span class="animated-words"></span></h2>
+<p align="center" class="animated-text"></p>
 
-<script>
-const words = [
-  "Abhinav Singh",
-  "an Aspiring Data Scientist",
-  "a Python Developer",
-  "a Machine Learning Enthusiast"
-];
-
-let i = 0;
-const span = document.querySelector('.animated-words');
-
-function changeWord() {
-  span.textContent = words[i];
-  i = (i + 1) % words.length;
+<style>
+.animated-text {
+  color: white;
+  font-size: 1.2rem;
+  font-family: 'Courier New', monospace;
+  width: 22ch;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid #e50914;
+  animation: typing 4s steps(22), blink .6s step-end infinite alternate;
+  margin: 0 auto;
 }
 
-changeWord();
-setInterval(changeWord, 2000);
+@keyframes typing {
+  from { width: 0 }
+  to { width: 22ch }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+</style>
+
+<script>
+document.querySelector('.animated-text').textContent = "I'm Abhinav Singh — Aspiring Data Scientist";
 </script>
 
 ---
