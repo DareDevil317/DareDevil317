@@ -11,22 +11,6 @@
 </p>
 
 ---
-<div align="center">
-  <div style="
-    height: 4px;
-    width: 80%;
-    background: linear-gradient(90deg,#e50914,#ff4d4d,#e50914);
-    border-radius: 8px;
-    animation: pulse 2s infinite ease-in-out;
-  "></div>
-</div>
-
-<style>
-@keyframes pulse {
-  0%,100% { opacity: 0.6; transform: scaleX(0.95); }
-  50% { opacity: 1; transform: scaleX(1); }
-}
-</style>
 
 <!-- About Me -->
 <h2 align="center" style="color:#e50914;">💡 About Me</h2>
