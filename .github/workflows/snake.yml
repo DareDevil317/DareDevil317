@@ -1,26 +1,25 @@
-name: Generate Dark Red Snake 🐍
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every 24 hours
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build:
-    name: Generate Snake
     runs-on: ubuntu-latest
+    name: Generate GitHub Contribution Snake
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-            
+
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: DareDevil317
-          outputs: dist/snake-dark-red.svg
-          args: --user DareDevil317 --color_snake ff0000 --color_dots #8b0000,#a52a2a,#b22222,#ff6347,#ff4500
-
+          outputs: |
+            dist/snake-dark-red.svg?palette=github-dark&color_snake=#ff0000&color_dots=#39ff14
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
