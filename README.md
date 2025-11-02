@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -47,7 +47,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -62,7 +62,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -78,7 +78,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -96,7 +96,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -112,7 +112,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -127,7 +127,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -153,7 +153,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 
 <p align="center">
   <img
-src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
@@ -180,6 +180,13 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
+    width="100%"
+    alt="animated divider"
+  />
+</p>
+
 <!-- Dynamic Coding Stats -->
 <!-- Coding Profiles -->
 <h2 align="center" style="color:#e50914;">💻 Coding Profiles</h2>
@@ -192,7 +199,7 @@ src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%2212%22%20viewBox%3D%220%200%201200%2012%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20x2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.45%22%20stop-color%3D%22%238b0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220.55%22%20stop-color%3D%22%23ff0000%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d0d0d%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%2212%22%20fill%3D%22%230a0a0a%22/%3E%0A%20%20%3Crect%20id%3D%22r%22%20x%3D%22-400%22%20y%3D%220%22%20width%3D%22400%22%20height%3D%2212%22%20fill%3D%22url(%23g)%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22x%22%20from%3D%22-400%22%20to%3D%221200%22%20dur%3D%222.5s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%3C/rect%3E%0A%3C/svg%3E"
+  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main/assets/divider.svg"
     width="100%"
     alt="animated divider"
   />
