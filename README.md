@@ -68,7 +68,7 @@
 <!-- GitHub Activity Graph -->
 <h2 align="center" style="color:#e50914;">📈 GitHub Activity Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DareDevil317&bg_color=0d1117&color=00ffcc&line=1DB954&point=ffffff&area=true&area_color=00ff9d&hide_border=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DareDevil317&bg_color=0d1117&color=e50914&line=ff4d4d&point=ffffff&area=true&area_color=990000&hide_border=true" 
        alt="Abhinav's GitHub Activity Graph" width="95%">
 </p>
 
@@ -77,7 +77,7 @@
 <!-- 🐍 Contribution Snake -->
 <h2 align="center" style="color:#e50914;">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/output/snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/output/snake-dark-red.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
