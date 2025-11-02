@@ -122,20 +122,21 @@
 </p>
 
 <!-- Dynamic Coding Stats -->
+<h2 align="center" style="color:#e50914;">💻 Coding Profiles</h2>
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
   <br>
-  <!-- LeetCode -->
-  <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="400"/><br><br>
-
-  <!-- Kaggle -->
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/abhi14122sin78" alt="Kaggle Profile Stats"/><br><br>
-
-  <!-- GeeksforGeeks -->
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=abhinavsingh1052004" alt="GeeksforGeeks Stats Card" width="400"/><br><br>
-
-  <!-- Stack Overflow -->
-  <img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/17989478" alt="Stack Overflow Badge" width="400"/>
+  <a href="https://www.kaggle.com/abhi14122sin78" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abhinavsingh1052004" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/17989478/abhinav-singh" target="_blank">
+    <img src="https://stackoverflow.com/users/flair/17989478.png" width="208" height="58" alt="Stack Overflow profile" />
+  </a>
 </p>
+
 
 ---
 
