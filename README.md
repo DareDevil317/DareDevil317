@@ -101,6 +101,28 @@
 
 ---
 
+<!-- Coding Profiles -->
+<h2 align="center" style="color:#e50914;">💻 Coding Profiles</h2>
+<p align="center">
+  <a href="https://leetcode.com/qY3vMHRqRx" target="_blank" style="margin:10px;">
+    <img src="https://img.shields.io/badge/LeetCode-e50914?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/2k24_csds1a_2425" target="_blank" style="margin:10px;">
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/abhi14122sin78" target="_blank" style="margin:10px;">
+    <img src="https://img.shields.io/badge/Kaggle-e50914?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abhinavsingh1052004" target="_blank" style="margin:10px;">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=00C853" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/17989478/abhinav-singh" target="_blank" style="margin:10px;">
+    <img src="https://img.shields.io/badge/StackOverflow-e50914?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
+
+---
+
 <!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DareDevil317&label=Profile+Visits&color=e50914&style=flat-square" alt="Profile views">
