@@ -5,34 +5,10 @@
 
 <!-- Welcome Section -->
 <h1 align="center" style="color:#e50914;">👋 Welcome to My Portfolio</h1>
-<p align="center" class="animated-text"></p>
 
-<style>
-.animated-text {
-  color: white;
-  font-size: 1.2rem;
-  font-family: 'Courier New', monospace;
-  width: 22ch;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 3px solid #e50914;
-  animation: typing 4s steps(22), blink .6s step-end infinite alternate;
-  margin: 0 auto;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 22ch }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-</style>
-
-<script>
-document.querySelector('.animated-text').textContent = "I'm Abhinav Singh — Aspiring Data Scientist";
-</script>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=I'm+Abhinav+Singh;Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
