@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/DareDevil317/DareDevil317/blob/main/banner.gif?raw=true" width="100%" alt="Daredevil Banner">
+  <img src="https://github.com/DareDevil317/DareDevil317/blob/main/banner.gif?raw=true" width="80%" alt="Daredevil Banner">
 </p>
 
 <!-- Welcome Section -->
