@@ -4,7 +4,7 @@
 </p>
 
 <!-- Welcome Section -->
-<h1 align="center" style="color:#e50914;">👋 Welcome to My Portfolio</h1>
+<h1 align="center" style="color:#e50914;">Welcome to My Portfolio</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=I'm+Abhinav+Singh;Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
