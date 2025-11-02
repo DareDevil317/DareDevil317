@@ -65,13 +65,11 @@
 
 ---
 
-<!-- Skyline -->
-<h2 align="center" style="color:#e50914;">🏙️ My GitHub Skyline</h2>
+<!-- GitHub Activity Graph -->
+<h2 align="center" style="color:#e50914;">📈 GitHub Activity Graph</h2>
 <p align="center">
-  <a href="https://skyline.github.com/DareDevil317/2025">
-    <img src="https://github.com/DareDevil317/DareDevil317/blob/main/skyline.gif?raw=true" width="500" alt="GitHub 3D Skyline">
-  </a><br>
-  <sub style="color:gray;">Click to explore my 3D contribution city</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DareDevil317&bg_color=0d1117&color=00ffcc&line=1DB954&point=ffffff&area=true&area_color=00ff9d&hide_border=true" 
+       alt="Abhinav's GitHub Activity Graph" width="95%">
 </p>
 
 ---
