@@ -122,21 +122,19 @@
 </p>
 
 <!-- Dynamic Coding Stats -->
+<!-- Coding Profiles -->
 <h2 align="center" style="color:#e50914;">💻 Coding Profiles</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/qY3vMHRqRx" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" style="border-radius:12px; margin:15px;"/>
+  </a>
   <br>
-  <a href="https://www.kaggle.com/abhi14122sin78" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/abhinavsingh1052004" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/17989478/abhinav-singh" target="_blank">
-    <img src="https://stackoverflow.com/users/flair/17989478.png" width="208" height="58" alt="Stack Overflow profile" />
+  <!-- HackerRank Profile -->
+  <a href="https://www.hackerrank.com/2k24_csds1a_2425" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-e50914?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" style="margin:10px;"/>
   </a>
 </p>
-
 
 ---
 
