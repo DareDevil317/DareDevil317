@@ -2,14 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
+    - cron: "0 0 * * *" # runs every day at midnight
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate:
     name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
 
@@ -17,13 +17,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: DareDevil317
           outputs: dist/snake-dark-red.svg
           args: >
-            --color_snake ff0000
             --color_dots "#000000:#330000:#660000:#990000:#ff0000"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
