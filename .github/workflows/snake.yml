@@ -23,7 +23,6 @@ jobs:
           github_user_name: DareDevil317
           outputs: dist/snake-dark-red.svg
           args: >
-            --user DareDevil317
             --color_snake ff0000
             --color_dots "#000000:#330000:#660000:#990000:#ff0000"
         env:
