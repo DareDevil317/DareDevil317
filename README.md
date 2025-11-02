@@ -3,15 +3,29 @@
   <img src="https://github.com/DareDevil317/DareDevil317/blob/main/banner.gif?raw=true" width="100%" alt="Daredevil Banner">
 </p>
 
-<!-- Intro -->
-<h1 align="center" style="color:#e50914;">Welcome to My World 👋</h1>
-<p align="center">
-  <b style="color:#e50914;">I'm Abhinav Singh</b><br>
-  <i>aka <b>DareDevil317</b></i><br>
-  💻 <b>Aspiring Data Scientist</b> | 🧠 <b>Machine Learning Enthusiast</b> | ⚙️ <b>Problem Solver</b><br>
-  <br>
-  <sub style="color:gray;">"I may be blind to the world, but I see the truth in data."</sub>
-</p>
+<!-- Welcome Section -->
+<h1 align="center" style="color:#e50914;">👋 Welcome to My Portfolio</h1>
+<h2 align="center" style="color:white;">I'm <span class="animated-words"></span></h2>
+
+<script>
+const words = [
+  "Abhinav Singh",
+  "an Aspiring Data Scientist",
+  "a Python Developer",
+  "a Machine Learning Enthusiast"
+];
+
+let i = 0;
+const span = document.querySelector('.animated-words');
+
+function changeWord() {
+  span.textContent = words[i];
+  i = (i + 1) % words.length;
+}
+
+changeWord();
+setInterval(changeWord, 2000);
+</script>
 
 ---
 
