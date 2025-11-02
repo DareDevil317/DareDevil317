@@ -83,12 +83,19 @@
 ---
 
 <!-- Contact -->
-<h2 align="center" style="color:#e50914;">📫 Connect With Me</h2>
-<p align="center">
-  <a href="https://github.com/DareDevil317"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="mailto:abhinavsingh1052004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://www.linkedin.com/in/abhinav-singh-367927353"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-</p>
+<h2>📬 Connect With Me</h2>
+
+<a href="https://x.com/Abhi14122_Sin78" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&to=abhinavsingh1052004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="linkedin.com/in/abhinav-singh-367927353" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ---
 
