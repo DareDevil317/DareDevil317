@@ -14,12 +14,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: DareDevil317
-          outputs: |
-            dist/snake-dark-red.svg?palette=github-dark&color_snake=#a00000&color_dots=#000000,#ff0000
+          outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#FF0000"
+          color_dots: "#161B22,#39D353,#26A641,#006D32,#0E4429"
+
 
 
       - name: Push Snake Animation
