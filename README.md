@@ -196,7 +196,7 @@ src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main
 <p align="center">
   <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/Dare_DeviL_64/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/qY3vMHRqRx?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" style="border-radius:12px; margin:15px;"/>
+    <img src="https://leetcard.jacoblin.cool/Dare_DeviL_64?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" style="border-radius:12px; margin:15px;"/>
   </a>
   <br>
 </p>
