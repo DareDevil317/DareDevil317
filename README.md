@@ -91,10 +91,10 @@ src="https://raw.githubusercontent.com/DareDevil317/DareDevil317/refs/heads/main
 <!-- Spotify -->
 <h2 align="center" style="color:#e50914;">🎧 Recently Played</h2>
 <p align="center">
-  <img src="![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313opvn7cdgrujppvlpsyafz3zvi)" 
-       alt="Spotify Recently Played" width="400">
+  <a href="https://open.spotify.com/user/313opvn7cdgrujppvlpsyafz3zvi">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313opvn7cdgrujppvlpsyafz3zvi" alt="Spotify recently played" width="400" />
+  </a>
   <br>
-  <sub style="color:gray;">Auto-updates with your latest tracks</sub>
 </p>
 
 <p align="center">
