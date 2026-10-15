@@ -24,7 +24,7 @@
 <!-- About Me -->
 <h2 align="center" style="color:#e50914;">💡 About Me</h2>
 <p align="center">
-  🎓 Pursuing <b>B.Tech in Data Science</b><br>
+  🎓 Pursuing <b>BCA</b><br>
   🔍 Passionate about <b>Machine Learning, Python, and Data Visualization</b><br>
   🧩 Exploring AI-driven applications and personalized learning systems<br>
   🧠 Skilled in <b>Python, SQL, HTML</b>, and fundamental <b>ML Algorithms</b><br>
